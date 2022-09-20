@@ -10,6 +10,8 @@
 
 <code>php artisan migrate</code>
 
+<code>php artisan passport:install</code>
+
 
 ## License
 
